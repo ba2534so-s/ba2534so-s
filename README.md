@@ -1,3 +1,5 @@
+<!---https://www.sitepoint.com/github-profile-readme/--->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBuazFqZ2tuNW9jZzRoeDBicjhqeGU2cWowcWx0YXYzOGlybTkweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
   <div id="badges">
@@ -17,7 +19,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me 
 I'm an Information Systems student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
 - :man_student: Graduating with a Bachelor's in Information Systems Design in June 2024, I am on the lookout for software development opportunities.
 - :seedling: Currently engaged in an internship at Tilix AI, focusing on quality assurance and performing a variety of tests.
@@ -26,7 +28,7 @@ I'm an Information Systems student <img src="https://media.giphy.com/media/WUlpl
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -38,3 +40,13 @@ I'm an Information Systems student <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="VisualBasic" alt="VisualBasic" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" **alt="SQL" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats 
+<!---https://github-readme-streak-stats.herokuapp.com/demo/--->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ba2534so-s&theme=dark&background=000000)](https://git.io/streak-stats)
+<!---https://github.com/anuraghazra/github-readme-stats--->
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)--->
+
+
