@@ -1,15 +1,7 @@
 <!---https://www.sitepoint.com/github-profile-readme/--->
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBuazFqZ2tuNW9jZzRoeDBicjhqeGU2cWowcWx0YXYzOGlybTkweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/baransel-soysuren/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=ba2534so-s&style=flat-square&color=blue"/>
   <h1>
-    hey there
+    Hello world
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
@@ -49,4 +41,14 @@ I'm an Information Systems student <img src="https://media.giphy.com/media/WUlpl
 <!---https://github.com/anuraghazra/github-readme-stats--->
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)--->
 
+---
 
+<div id="footer" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBuazFqZ2tuNW9jZzRoeDBicjhqeGU2cWowcWx0YXYzOGlybTkweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/baransel-soysuren/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=ba2534so-s&style=flat-square&color=blue"/>
+</div>
